@@ -1,17 +1,25 @@
 # Block 3 病理 Micro 跑台測驗
 
-醫四上第二次病理 Micro（陳漢和）跑台練習網頁：31 片教學片（115-1 Lab Orientation 考試範圍(二) 27 片，加上 B11 共筆有的 PA0336 Lymphangioma，以及 Lab Orientation 列在考試範圍(三)、B12 Micro vol.7-2 先教的 29–31 三片 Epithelial tumor），加上挑戰版 119 題（NUS Pathweb、ExpertPath、EBM 線上玻片、PathologyOutlines、PathPresenter）。作答後自動判分，看答案時可以打開整段共筆原頁和歷屆考古答案。
+醫四上第二次病理 Micro（陳漢和）跑台練習網頁：36 片教學片，加上挑戰版 117 題（NUS Pathweb、ExpertPath、EBM 線上玻片、PathologyOutlines、PathPresenter）。作答後自動判分，看答案時可以打開整段共筆原頁和歷屆考古答案（B07–B11）。
+
+36 片在範圍選單分成三類：
+
+- 01–28：今年第二次範圍。115-1 Lab Orientation 考試範圍(二) 27 片，加上 B11 共筆有的 PA0336 Lymphangioma。
+- 29–34：第二次範圍外（歷屆考過／指定加入）。29–31 是 Lab Orientation 列在考試範圍(三)、B12 Micro vol.7-2 先教的三片 Epithelial tumor；32–34 是今年排在第三次、但歷屆考在第二次 Micro 的三片，答案照 B11 共筆。
+- 35–36：課表外（B08 考過・共筆沒有答案）。今年課表沒有、B08 考在第二次 Micro 的兩片；共筆沒有答案表，只判器官和診斷，描述不計分。
+
+29–36 每片看答案後的說明會寫它為什麼放進來、答案照哪一本。
 
 ## 下載與使用
 
-1. 到右邊的 **[Releases](https://github.com/hsiehtzuchi/block3-micro-quiz/releases/latest)**，下載 `Block3_Micro_Quiz.zip`（約 30 MB），解壓縮。
+1. 到右邊的 **[Releases](https://github.com/hsiehtzuchi/block3-micro-quiz/releases/latest)**，下載 `Block3_Micro_Quiz.zip`（約 36 MB），解壓縮。
 2. 用**電腦**的 Safari 或 Chrome，**直接打開下載下來的 `Block3_Micro_Quiz.html`**（雙擊檔案即可）。
    - 不要在 GitHub 網頁上預覽，也不要放到其他網站或用手機開：線上玻片會被瀏覽器擋掉。
    - 預設亮色，右上角的月亮圖示可以切成深色。
 3. 「線上玻片」需要網路。開場是實體顯微鏡 40×，每次出題隨機換一個有組織的視野。送出或看答案後，題目區上方的「看共筆原頁」可以看這個疾病的整段共筆。
 4. 範圍選單的「純考古」只出考古考過的疾病＋器官：
-   - 同器官同疾病・EBM 線上玻片（14 題）：考古考過的教學片，加上 EBM 線上玻片裡同病、同器官的題。
-   - 同器官同疾病・挑戰版（10 題）：其他網站同病、同器官的題。
+   - 同器官同疾病・EBM 線上玻片（25 題）：考古考過的教學片，加上 EBM 線上玻片裡同病、同器官的題。
+   - 同器官同疾病・挑戰版（18 題）：其他網站同病、同器官的題。
    - 不同器官同疾病（5 題）：考古換過器官的題；看答案後會附上考過這個器官的那幾題考古標準答案。
    - 只練錯題：上面幾種裡在錯題本的題。
 5. 範圍選單最下面是「挑戰版」：
