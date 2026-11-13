@@ -2,7 +2,7 @@
 
 醫四上第二次病理 Micro（陳漢和）跑台練習網頁：36 片教學片，加上挑戰版 117 題（NUS Pathweb、ExpertPath、EBM 線上玻片、PathologyOutlines、PathPresenter）。作答後自動判分，看答案時可以打開整段共筆原頁和歷屆考古答案（B07–B11）。
 
-36 片在範圍選單分成三類：
+36 片在範圍選單分成三類，範圍選單的「全部 28 片」只出 01–28，29–36 要選自己的分類才會出：
 
 - 01–28：今年第二次範圍。115-1 Lab Orientation 考試範圍(二) 27 片，加上 B11 共筆有的 PA0336 Lymphangioma。
 - 29–34：第二次範圍外（歷屆考過／指定加入）。29–31 是 Lab Orientation 列在考試範圍(三)、B12 Micro vol.7-2 先教的三片 Epithelial tumor；32–34 是今年排在第三次、但歷屆考在第二次 Micro 的三片，答案照 B11 共筆。
